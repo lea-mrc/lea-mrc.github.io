@@ -2816,8 +2816,8 @@ textarea.form-control-lg {
   }
 }
 .btn:hover {
-  color: var(--bs-btn-hover-color);
-  background-color: var(--bs-btn-hover-bg);
+  color: white;
+  background-color: black;
   border-color: var(--bs-btn-hover-border-color);
 }
 .btn-check + .btn:hover {
@@ -2855,7 +2855,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #64a19d;
+  --bs-btn-bg: crimson;
   --bs-btn-border-color: #64a19d;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #558985;
