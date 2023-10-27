@@ -256,7 +256,7 @@ sup {
 }
 
 a {
-  color: crimson;
+  color: lightsalmon;
   text-decoration: underline;
 }
 a:hover {
@@ -11048,10 +11048,10 @@ body {
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: lightsalmon;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: lightsalmon;
   }
   #mainNav.navbar-shrink .nav-link.active {
     color: lightsalmon;
