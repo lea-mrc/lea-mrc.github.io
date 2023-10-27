@@ -120,6 +120,7 @@ hr {
   text-align: center; 
   margin-bottom: 5rem;
   text-decoration: overline;  
+  color: lightsalmon; 
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
@@ -11053,9 +11054,9 @@ body {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: lightsalmon;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid lightsalmon;
   }
 }
 
@@ -11135,7 +11136,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid lightsalmon;
   }
 }
 .projects-section .project-text {
