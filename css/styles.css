@@ -10992,8 +10992,8 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: lightsalmon;
+  border: 1px solid lightsalmon;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
@@ -11060,6 +11060,7 @@ body {
 }
 
 .btn {
+  background-color: lightsalmon;
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -11171,7 +11172,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid crimson;
+  border-bottom: 0.25rem solid lightsalmon;
 }
 .contact-section .card h4, .contact-section .card .h4 {
   font-size: 0.8rem;
@@ -11181,7 +11182,7 @@ body {
 }
 .contact-section .card hr {
   opacity: 1;
-  border-color: crimson; 
+  border-color: lightsalmon; 
   border-width: 0.25rem;
   width: 3rem;
 }
